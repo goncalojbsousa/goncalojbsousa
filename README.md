@@ -1,7 +1,7 @@
 ### Heyy, I'm Gonçalo Sousa 👋
 
 
-🎓 Currently studying: Web development (HTML, CSS, JS), Java and SQL at IPVC
+🎓 Currently studying: Web development (HTML, CSS, JS), Java and MySQL at IPVC
 
   ##
  
