@@ -1,8 +1,6 @@
 ### Heyy, I'm Gonçalo Sousa 👋
 
-
-🎓 Currently studying: Web development (HTML, CSS, JS), Java and MySQL at IPVC
-
+🎓 Currently studying: NextJS
   ##
  
 <div> 
