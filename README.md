@@ -1,6 +1,6 @@
 ### Heyy, I'm Gonçalo Sousa 👋
 
-🎓 Currently studying: NextJS
+🎓 Sou um estudante de Tecnologias e Programação de Sistemas de Informação (CTeSP) no Instituto Politécnico de Viana do Castelo. 
   ##
  
 <div> 
