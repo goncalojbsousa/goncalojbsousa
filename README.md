@@ -8,7 +8,9 @@
 </div>
 
 
-<i class="devicon-typescript-plain colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+          
           
  
 <div> 
