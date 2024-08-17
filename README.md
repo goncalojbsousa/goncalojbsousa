@@ -5,7 +5,11 @@
 ### Heyy, I'm Gonçalo Sousa 👋
 
 🎓 Information Systems Technology and Programming Technician
-  ##
+
+<div align="center">  
+  ![goncalojbsousa's Stats](https://github-readme-stats.vercel.app/api?username=goncalojbsousa&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true")
+  ![goncalojbsousa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalojbsousa&theme=dark&show_icons=true&hide_border=true&layout=compact)
+</div>
  
 <div> 
   <a href = "mailto:goncalojbsousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
