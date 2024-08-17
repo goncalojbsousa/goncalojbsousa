@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="MasterHead" width="100%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-7.gif" alt="MasterHead" width="100%" />
 </p>
 
 ### Heyy, I'm Gonçalo Sousa 👋
