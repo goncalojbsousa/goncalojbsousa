@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N4cW9yNnhuemM3cHg4MGljeHp6a3J2NGRrYm12eHU1aGJ4N3AxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zdyq5h13gxhdQeoP0q/giphy.webp" alt="MasterHead" width="100%" />
-</p>
-
 ### Heyy, I'm Gonçalo Sousa 👋
 
-🎓 Information Systems Technology and Programming Technician
+I'm passionate about technology and programming, always looking to learn new technologies and turn ideas into reality through code.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=goncalojbsousa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_rank=true" alt="goncalojbsousa's Stats" /> 
