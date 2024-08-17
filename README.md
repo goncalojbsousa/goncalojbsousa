@@ -1,6 +1,6 @@
 ### Heyy, I'm Gonçalo Sousa 👋
 
-🎓 Sou um estudante de Tecnologias e Programação de Sistemas de Informação (CTeSP) no Instituto Politécnico de Viana do Castelo. 
+🎓 Information Systems Technology and Programming Technician
   ##
  
 <div> 
