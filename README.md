@@ -7,8 +7,8 @@
 🎓 Information Systems Technology and Programming Technician
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=goncalojbsousa&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="goncalojbsousa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalojbsousa&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="goncalojbsousa's Top Languages" />
+  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=goncalojbsousa&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="goncalojbsousa's Stats" />
+  <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalojbsousa&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="goncalojbsousa's Top Languages" />
 </div>
  
 <div> 
