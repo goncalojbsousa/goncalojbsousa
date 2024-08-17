@@ -1,3 +1,5 @@
+![MasterHead](https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif)
+
 ### Heyy, I'm Gonçalo Sousa 👋
 
 🎓 Information Systems Technology and Programming Technician
