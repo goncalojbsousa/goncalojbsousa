@@ -1,4 +1,22 @@
-<div align="center">  
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=goncalojbsousa&rank_icon=default&hide_rank=true&custom_title=Hello%20Everyone%20%F0%9F%91%8B&include_all_commits=true&theme=dark" alt="goncalojbsousa's Stats" /> 
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=goncalojbsousa&layout=compact&langs_count=6&theme=dark" alt="goncalojbsousa's Top Languages"/>
-</div>
+# 👋 Hi! I'm Gonçalo Sousa
+
+- 🎓 Computer Engineering Student
+- 💻 Fullstack Developer  
+- 🚀 Currently working mainly with TypeScript and the React/Next.js ecosystem
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,docker,tailwind,react,tailwind,python,godot,git,linux" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=goncalojbsousa&show_icons=true&theme=dark&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=goncalojbsousa&theme=dark" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=goncalojbsousa&layout=compact&theme=dark" height="165" />
+</p>
+
