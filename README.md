@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,docker,tailwind,react,tailwind,python,godot,git,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,docker,react,tailwind,python,godot,git,linux" />
 </p>
 
 ## 📊 GitHub Stats
